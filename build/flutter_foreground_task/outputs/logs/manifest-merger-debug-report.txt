@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:2:3-48
+		INJECTED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:3:5-16:19
+receiver#com.pravera.flutter_foreground_task.service.BootReceiver
+ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:4:9-11:20
+	android:enabled
+		ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:6:13-35
+	android:exported
+		ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:7:13-36
+	android:name
+		ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:5:13-49
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:8:13-10:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:9:17-79
+	android:name
+		ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:9:25-76
+receiver#com.pravera.flutter_foreground_task.service.RestartReceiver
+ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:12:9-15:40
+	android:enabled
+		ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml:13:13-52
+uses-sdk
+INJECTED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml
+INJECTED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml
+		ADDED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/kuldeeprawat/FlutterDev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_foreground_task-2.2.1/android/src/main/AndroidManifest.xml

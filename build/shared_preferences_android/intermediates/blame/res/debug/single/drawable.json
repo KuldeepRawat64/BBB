@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/shared_preferences_android/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/drawable/notification_bg_low.xml"
+    }
+]

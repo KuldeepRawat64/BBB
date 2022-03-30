@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/url_launcher_android/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/url_launcher_android/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/url_launcher_android/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/url_launcher_android/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

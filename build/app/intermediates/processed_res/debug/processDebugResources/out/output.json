@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkData":{"type":"MAIN","splits":[],"versionCode":8,"versionName":"0.2.6","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"resources-debug.ap_","properties":{"packageId":"edu.hm.cs.tape.bbb_app","split":"","minSdkVersion":"23"}}]

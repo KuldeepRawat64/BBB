@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/shared_preferences_android/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/kuldeeprawat/Documents/FlutterProjects/big_blue_button/build/shared_preferences_android/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/kuldeeprawat/.gradle/caches/transforms-2/files-2.1/e2b6bfd789e6411d42980160cc0af1c9/core-1.6.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]
